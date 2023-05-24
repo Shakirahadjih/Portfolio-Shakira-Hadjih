@@ -1,0 +1,14 @@
+{
+  "name": "shakirahadjih.eu",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shakira Hadjih",
+  "license": "ISC",
+  "dependencies": {
+    "jquery-scrollify": "^1.0.21"
+  }
+}
